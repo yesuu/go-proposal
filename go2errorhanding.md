@@ -43,7 +43,7 @@ My first improvement suggestion:
 ```
 import "github.com/pkg/errors"
 func fn() error {
-    handle err, msg string {
+    handle err error, msg string {
         return errors.WithMessage(err, msg)
     }
     img := check("download fail") fetchImg()
