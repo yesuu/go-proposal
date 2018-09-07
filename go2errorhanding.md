@@ -1,3 +1,5 @@
+[Please comment here.](https://github.com/yesuu/go-proposal/issues/1)
+
 When I first saw this proposal, I immediately thought `handle f()`,
 just like `defer f()`, but I don't intend to think deep about it.
 
@@ -55,3 +57,5 @@ func fn() error {
 My second improvement suggestion:
 
 There is no second one, because I have thought of several ways of writing, I feel that they are bad.
+
+[Please comment here.](https://github.com/yesuu/go-proposal/issues/1)
